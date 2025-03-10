@@ -5,9 +5,9 @@ I didn't have many expecations going in this class, I was hoping it would not be
 ### Your Writing
 
 - What types of writing do you do (e.g. fiction, nonfiction, poetry)?
- * I mostly write fiction but have found a new love and interest for creative nonfiction since taking its classes in second year.
+  * I mostly write fiction but have found a new love and interest for creative nonfiction since taking its classes in second year.
 - What tools (or techniques) do you use to write?
- * For techniques, I use handwritting and my notebook as tool for all my writing.  
+  * For techniques, I use handwritting and my notebook as tool for all my writing.  
 - Why do you use these tools (or techniques)?
   * It is a technique that has proved itself effective and I find I get high quality writing with this technique.
 - How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
