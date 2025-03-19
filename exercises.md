@@ -1,4 +1,4 @@
-### Reflection on week 1 coding.
+## Week 1 Reflection.
 
 I didn't have many expecations going in this class, I was hoping it would not be too difficult as I don't have much coding knowledge beyond year 7 classes in school. I had used html coding before, so that was familiar to me. However, Github and Glitch are entirely new softwares to me that I hope become easier to use the more I practice. I'm very intrigued by how coding is intercepted with writing, especially with how it could look on a page. I'm excited to learn more and to have coding as a skill I could have an advantage for. 
 
@@ -20,12 +20,12 @@ I didn't have many expecations going in this class, I was hoping it would not be
 * Second Gen Literature, known as the <u>contemporary</u>, began in 1995 and onwards. Second Gen Literature is defined as Web based and incorporating multimedia and interactivity, intertwined with hypertext link?
 * Third Gen Literature, which is the current age and the technology we are expierencing today, established in 2005. Third Gen Literature uses established platforms with massive user bases, such as social media networks, apps, mobile and touchscreen devices, and Web API services. It coexists with the Second Gen and accounts for a massive scale of born digital work produced by and for contemporary audiences for whom digital media has become naturalized.
 
-### Week 3 reflection
+## Week 3 Reflection.
 
-# Algorithim: 
+### Algorithim: 
 - Algorithim is a set of rules. It has to be designed. It is based on human intelligence.
   
-# Constraint: 
+### Constraint: 
 - Constraint is a limitation.
 - A fiction writer is constrained about choosing what to say in the story and which information to and withold.
 - A scriptwriter is constrained by script and form.
