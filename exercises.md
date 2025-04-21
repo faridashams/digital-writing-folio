@@ -38,7 +38,7 @@ Algorithmic writing
 
 
 ## Week 6 activity 
-_House On The Hill_ by Lara J Scuri 
+["_House On The Hill_"](https://larajscuri.github.io/house-on-the-hill/) by Lara J Scuri 
  
 - How does it work?
  * The user reader can move the character around the house using up down side side and wasd keys.
