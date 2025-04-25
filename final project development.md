@@ -11,6 +11,7 @@ the story moves along. I had spoken to one of my peers about my idea, and we sta
 how I wanted this story to take shape.
 
 ### Map of story 
+![mapofstory](https://github.com/user-attachments/assets/84d6beed-65b6-4b41-927c-f9705ebddc12)
 
 ### Issues I faced while creating the story on Twine:
 1. Files not saving properly and my project not showing up
