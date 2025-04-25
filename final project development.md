@@ -16,3 +16,4 @@ how I wanted this story to take shape.
 ### Issues I faced while creating the story on Twine:
 1. Files not saving properly and my project not showing up
 2. The font not working because I was viewing my project through "Test From Here" option.
+3. Having difficulty trying to add a background image to a passage 
