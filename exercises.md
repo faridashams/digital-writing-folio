@@ -106,7 +106,7 @@ How does the literary and the digital drive the momentum together with the piece
 Do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
 - I have thouroughly developed the concept and narrative via making a digital map of the idea, character backgrounds and arcs, the themes, aesthetics, and audios I aim to use. This is a tool in order to help me the more I code the story so that I don't get lost along the way and to be completely certain of what I am creating. 
 
-# Scope and Scale
+## Scope and Scale
 
 How many words will it be?
 - A couple thousand words, I'll have to double check and answer this question again.
@@ -119,3 +119,30 @@ What do you need to do on a week-by-week basis (is this realistic?)
   
 What is the tech that might get you stuck? what is the workaround/Plan B?
 - I have been able to solve all the tech issues I have faced, but if I face anymore, which is likely, I'll add it to my folio development and work hard on trying to solve it.
+Discuss what we learnt about and what interested you.
+
+## Week 10: Reflection on class and final project 
+
+Were there any portions of the class that stood out to you?
+- The coding in itself stood out. It seemed like such a difficult language to learn and incredibly out of reach for me. Using Twine is what stood out to me the most. I found it confusing at the start, however, the more I practised, the more I started to find pleasure of it. The feeling of satisfaction of working code is a feeling I find myself craving the more I work on my Twine project.
+  
+Was there anything that you were able to expand your prior knowledge on?
+- Before this class, I had very minimal understanding of HTML code since I learnt it in years 5 and 6. But with this class, I realised that coding goes beyond just HTML, and that there is so much more of it that I had no idea about. What I find interesting is that Twine does depend a lot on simple HTML code, and I found it is what easily read by Twine, so being able to fall back to codes I already knew whenever I got stuck was comforting to me.
+
+Discuss your final project and how it may relate back to your initial interests in the class or what we have learnt.
+-
+
+What has inspired your final project?
+-
+
+What knowledge from this studio are you using to create this final project?
+- 
+
+Discuss how this studio has impacted your writing practice.
+- 
+
+Is interactive fiction something that you will continue to do after this studio?
+- I'm not so sure if it is something I will continue to do after this studio, but I have gained a new respect for it. 
+
+Has learning about and experimenting with interactive fiction influenced how you approach writing as a whole?
+- 
