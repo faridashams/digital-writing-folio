@@ -17,3 +17,5 @@ how I wanted this story to take shape.
 1. Files not saving properly and my project not showing up. I was saving it on the wrong file in github. It was named differently than the folder on my desktop. 
 2. The font not working because I was viewing my project through "Test From Here" option.
 3. Having difficulty trying to add a background image to a passage. I tried many different codes that kept glitching until finally one of them worked. 
+
+### Workshopping of my Twine project
