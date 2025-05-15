@@ -46,6 +46,12 @@ _I was sitting on the grass, balancing a pink lunchbox on my lap.
 
 <img width="622" alt="Screen Shot 2025-05-15 at 2 47 15 pm" src="https://github.com/user-attachments/assets/497a1ba9-5c4e-4bf8-a0f7-12fbf8335340" />
 
+## Week 5 
+Map of my story
+
+<img width="924" alt="Screen Shot 2025-05-15 at 2 59 05 pm" src="https://github.com/user-attachments/assets/2ecfe79e-f8aa-41ff-8ed7-c0b89d7b3019" />
+
+
 ## Week 6 activity 
 ["_House On The Hill_"](https://larajscuri.github.io/house-on-the-hill/) by Lara J Scuri 
  
