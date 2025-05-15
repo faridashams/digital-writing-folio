@@ -35,10 +35,16 @@ I didn't have many expecations going in this class, I was hoping it would not be
 Dada, Opuilo, the modernists.
 Algorithmic writing 
 
-## Lipograms
-- A poem without the letter e:
-  I was sitting on the grass, balancing a pink lunchbox on my lap. It was adorned in frilly fabric. I was a month shy of turning IX, and it was the first day I saw him.
+### Lipograms
+- A short poem without the letter e:
+  
+_I was sitting on the grass, balancing a pink lunchbox on my lap. 
+ adorned in frilly fabric. I was a month shy of turning IX, 
+ and it was the first day I saw him._
 
+### Mesostics
+
+<img width="622" alt="Screen Shot 2025-05-15 at 2 47 15 pm" src="https://github.com/user-attachments/assets/497a1ba9-5c4e-4bf8-a0f7-12fbf8335340" />
 
 ## Week 6 activity 
 ["_House On The Hill_"](https://larajscuri.github.io/house-on-the-hill/) by Lara J Scuri 
