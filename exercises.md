@@ -35,6 +35,9 @@ I didn't have many expecations going in this class, I was hoping it would not be
 Dada, Opuilo, the modernists.
 Algorithmic writing 
 
+## Lipograms
+- A poem without the letter e:
+  I was sitting on the grass, balancing a pink lunchbox on my lap. It was adorned in frilly fabric. I was a month shy of turning IX, and it was the first day I saw him.
 
 
 ## Week 6 activity 
