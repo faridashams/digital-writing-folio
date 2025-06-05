@@ -47,6 +47,8 @@ _I was sitting on the grass, balancing a pink lunchbox on my lap.
 <img width="622" alt="Screen Shot 2025-05-15 at 2 47 15 pm" src="https://github.com/user-attachments/assets/497a1ba9-5c4e-4bf8-a0f7-12fbf8335340" />
 
 ## Week 5 
+
+
 Map of my story
 
 <img width="924" alt="Screen Shot 2025-05-15 at 2 59 05 pm" src="https://github.com/user-attachments/assets/2ecfe79e-f8aa-41ff-8ed7-c0b89d7b3019" />
@@ -95,9 +97,9 @@ Map of my story
 
 - How does this work make you reflect on your own ideas and what you might do for your own piece?
   
-  * This work also dives deep into secrets and mysteries, and it uses embedded clues in objects that are clickable: it reveals more of the story. This idea is similar to mine. It made me think of how I can use clues and hidden secrecy around in my Twine project. My piece doesn’t use objects like this creative work per say. It doesn’t have clickable broken glass you can click onto, but it has clickable dialogue and scratched out words that reveal more than an object could. I took in what House on the Hill did with its own secrets, and meshed it to become what I would use in my own piece. 
+  * This work also dives deep into secrets and mysteries, and it uses embedded clues in objects that are clickable: it reveals more of the story. This idea is similar to mine. It made me think of how I can use clues and hidden secrecy around in my Twine project. My piece doesn’t use objects like this creative work per say. It doesn’t have clickable broken glass you can click onto, but it has clickable dialogue and scratched out words that reveal more than an object could. I took in what _House on the Hill_ did with its own secrets, and meshed it to become what I would use in my own piece.
 
-House on the Hill also used one continuous audio throughout the game. It was a suspenseful tune that put me on the edge of my seat while I was reading. It enhanced the experience for me. I wanted to do something similar as well. Since my piece is very heavily jazz and crime inspired, I think I’ll add audio that resembles that. Perhaps a jazz song while the troupe performs, or a crime theme song once the work begins. I also wanted to add in audio in the background to match whatever is happening on screen. For example, if someone is having a conversation, I want chatter to play in the back. If people are fighting or eating breakfast or singing, I want the audio to resemble exactly that. So, using the same idea from House on the Hill of having audio that matches, but enhancing it even more to make it a full rounded experience for the player. I haven’t found suitable audio yet, but I’m working on it.
+    _House on the Hill_ also used one continuous audio throughout the game. It was a suspenseful tune that put me on the edge of my seat while I was reading. It enhanced the experience for me. I wanted to do something similar as well. Since my piece is very heavily jazz and crime inspired, I think I’ll add audio that resembles that. Perhaps a jazz song while the troupe performs, or a crime theme song once the work begins. I also wanted to add in audio in the background to match whatever is happening on screen. For example, if someone is having a conversation, I want chatter to play in the back. If people are fighting or eating breakfast or singing, I want the audio to resemble exactly that. So, using the same idea from _House on the Hill_ of having audio that matches, but enhancing it even more to make it a full rounded experience for the player. I haven’t found suitable audio yet, but I’m working on it.
  
 ## Week 8
 ##### Reflection on Feedback and Peer Presentations:
