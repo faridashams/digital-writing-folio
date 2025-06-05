@@ -58,7 +58,7 @@ Map of my story
 - How does it work?
   
    *  The user reader can move the character around the house using up down side side and wasd keys.
-   *  There are interactive elements within the home, which include the televesion, broken glass on the floor, picture frames.
+   *  There are interactive elements within the home, which include the television, broken glass on the floor, picture frames.
    *  Different characters can be found throughout the house which the player can interact with to progress the story.
    *  Text appears on the screen as if being typed, but you can press any key to complete the sentence faster and then skip to the next line. 
  
@@ -66,7 +66,7 @@ Map of my story
   
    *  The work builds suspense and tension.
    *  Haunting music can be heard in the background, it loops.
-   *  Phone calls, a shrilling ringing sound, gives more context to some characters and lets the user reader piece together the familiam issues.
+   *  Phone calls, a shrilling ringing sound, gives more context to some characters and lets the user reader piece together the familial issues.
    *  Nostalgic, the colour scheme of blues and the pixelation gives the work a feel of 80's video games.
  
 - What is conveyed?
@@ -78,7 +78,7 @@ Map of my story
 - Digital Affordance:
   
    *  Gradual discovery of interactive elements increases the suspense, reader immersion, and interest.
-   * Certrain elements add to the story; blood on the floor, broken picture frames, and adjar door. It is up to the reader to discover them.
+   *  Certrain elements add to the story; blood on the floor, broken picture frames, and adjar door. It is up to the reader to discover them.
    *  The work is designed to be read in different orders, depending on order of rooms entered.
    *  How the work functions increases the meaning.
  
@@ -92,6 +92,12 @@ Map of my story
   
    *  Reader takes an active role in progressing the story.
    *  The story will remain static and unmoving without the user reader's interactions.
+
+- How does this work make you reflect on your own ideas and what you might do for your own piece?
+  
+  * This work also dives deep into secrets and mysteries, and it uses embedded clues in objects that are clickable: it reveals more of the story. This idea is similar to mine. It made me think of how I can use clues and hidden secrecy around in my Twine project. My piece doesn’t use objects like this creative work per say. It doesn’t have clickable broken glass you can click onto, but it has clickable dialogue and scratched out words that reveal more than an object could. I took in what House on the Hill did with its own secrets, and meshed it to become what I would use in my own piece. 
+
+House on the Hill also used one continuous audio throughout the game. It was a suspenseful tune that put me on the edge of my seat while I was reading. It enhanced the experience for me. I wanted to do something similar as well. Since my piece is very heavily jazz and crime inspired, I think I’ll add audio that resembles that. Perhaps a jazz song while the troupe performs, or a crime theme song once the work begins. I also wanted to add in audio in the background to match whatever is happening on screen. For example, if someone is having a conversation, I want chatter to play in the back. If people are fighting or eating breakfast or singing, I want the audio to resemble exactly that. So, using the same idea from House on the Hill of having audio that matches, but enhancing it even more to make it a full rounded experience for the player. I haven’t found suitable audio yet, but I’m working on it.
  
 ## Week 8
 ##### Reflection on Feedback and Peer Presentations:
@@ -203,3 +209,11 @@ Twine definitely came with its fair share of frustrations. There were many momen
 I think the main thing that truly got me through this class was my persistence of making things work, even if it felt impossible. If a certain idea I wanted to work didn’t, I would either find a loophole, or change it slightly to fit the code instead. Finishing my Twine project and adding that final touch and play testing it with everything working, was incredible. I took a breath as I clicked ‘Test from here’, and I held my breath the entire time I played it to make sure everything was working perfectly, and I finally let out that breath when I realised the code was flawless, and I was truly and officially done with my project. 
 
 Months and months of work on this Twine project was gruelling, but I am so incredibly proud of the work I have done. If I could go back in time, I would take this class again, because it allowed me to prove myself wrong: I could learn code. I am capable. And it made me learn to be patient, and that if I can’t see a solution now, it doesn’t mean one will never come to me. It has influenced my writing in a way I didn’t think was possible. It allowed me to be experimental, and I now have a newfound love for electronic literature. This was both an intense and a fulfilling experience. 
+
+
+# Reference list 
+-	Scuri, L. (2024). The House on the Hill: An Interactive Fiction Game. GitHub Pages. https://larajscuri.github.io/house-on-the-hill/
+-	Wakes, D. (2018). Twine For Beginners: Using Variables. Damon Wakes. https://damonwakes.wordpress.com/2018/01/24/twine-for-beginners-using-variables/ 
+
+
+
