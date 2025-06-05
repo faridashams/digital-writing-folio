@@ -46,6 +46,10 @@ _I was sitting on the grass, balancing a pink lunchbox on my lap.
 
 <img width="622" alt="Screen Shot 2025-05-15 at 2 47 15 pm" src="https://github.com/user-attachments/assets/497a1ba9-5c4e-4bf8-a0f7-12fbf8335340" />
 
+### Dadaist poem link
+
+https://github.com/faridashams/faridashams-dadaist-poem 
+
 ## Week 5 
 
 We have started developing our works for the final creative work. I have chosen to work with Twine since I believe it is what fits the image in my head for my project. I know which of my projects I want to develop for Twine. It’s a 1920s mystery story set in New York, and with Twine, I’ll be able to embed hidden clues and meanings, though I am still unsure on how I’m going to do that or what code I could use. I designed a digital map to help me picture my story and its themes better. 
