@@ -20,6 +20,9 @@ I didn't have many expecations going in this class, I was hoping it would not be
 * Second Gen Literature, known as the _contemporary_, began in 1995 and onwards. Second Gen Literature is defined as Web based and incorporating multimedia and interactivity, intertwined with hypertext link?
 * Third Gen Literature, which is the current age and the technology we are expierencing today, established in 2005. Third Gen Literature uses established platforms with massive user bases, such as social media networks, apps, mobile and touchscreen devices, and Web API services. It coexists with the Second Gen and accounts for a massive scale of born digital work produced by and for contemporary audiences for whom digital media has become naturalized.
 
+### Coding playground link https://github.com/faridashams/iodized-sparkly-scent-remix 
+
+
 ## Week 3 Reflection.
 
 ### Algorithim: 
