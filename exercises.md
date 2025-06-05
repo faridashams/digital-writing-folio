@@ -88,7 +88,8 @@ Map of my story
  * The story will remain static and unmoving without the user reader's interactions.
  
 ## Week 8
-Reflection on Feedback and Peer Presentations:
+##### Reflection on Feedback and Peer Presentations:
+
 I planned for this presentation for days. I was determined to do well in it, and show my peers the work I had been developing for weeks. I think my main concern for this presentation was to at least have 4 pages of prototype ready to show the class for feedback. I worked hard to get that prepared, alongside diving into any troubleshooting issues I faced. One of my other main concerns was the text being too long and difficult to read, and fonts that didn’t exactly match the aesthetic I was going for. Marley suggested I download fonts from DaFont instead of Google Fonts, since they have more options for handwritten fonts like I wanted. Then Jenny suggested I change the opacity of the background image, and to add a drop shadow to the text to make it stand out. Jenny also suggested I add an image map for the journal entries to make it more immersive and realistic to interact with. Here are two images of me implementing those changes:
 
 <img width="1440" alt="Screen Shot 2025-06-05 at 8 47 41 pm" src="https://github.com/user-attachments/assets/1d89394e-c9ba-4684-81db-3e6ef4a3ada4" />
@@ -97,17 +98,21 @@ I planned for this presentation for days. I was determined to do well in it, and
 
 
 What has been introduced? Summarise your proposed piece
- ' - 	My proposed idea is a murder mystery narrative set in 1920s New York, where main protagonist, Estelle, recounts through her journal entries how she established her career in the music industry, and the mystery that hangs around her ensemble of friends.
+ 
+   * My proposed idea is a murder mystery narrative set in 1920s New York, where main protagonist, Estelle, recounts through her journal entries how she established her career in the music industry, and the mystery that hangs around her ensemble of friends.
 
 What are the themes and ideas is your piece is exploring?:
- •	The themes that revolve around my piece is betrayal, dangerous love, obsession, greed, murder, and manipulation.
+
+ *	The themes that revolve around my piece is betrayal, dangerous love, obsession, greed, murder, and manipulation.
 
 What literary genre or style are you drawing on? Is it narrative driven or more poetic and associative? Or essayistic?
- •	My genre is murder mystery, and it is narrative driven. I'm drawing inspiration from The Secret History by Donna Tartt and The Great Gatsby by F. Scott Fitzgerald.
+
+ *	My genre is murder mystery, and it is narrative driven. I'm drawing inspiration from The Secret History by Donna Tartt and The Great Gatsby by F. Scott Fitzgerald.
   
 Succinctly: What is the story? Or, what do you want to express/communicate through this piece?
 what do you wish there reader to understand of feel?
- •	I want to express through my story that some kinds of obsession, once it reaches it limit, is dangerous. I want to express how meeting one person can change your entire life, whether that be could good or bad. I also want to communicate the lengths someone could go in order to reach success.
+ 
+  * I want to express through my story that some kinds of obsession, once it reaches it limit, is dangerous. I want to express how meeting one person can change your entire life, whether that be could good or bad. I also want to communicate the lengths someone could go in order to reach success.
 
 # What needs to be developed?
 
