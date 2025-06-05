@@ -226,17 +226,11 @@ Months and months of work on this Twine project was gruelling, but I am so incre
 # Reference list 
 
  * Aarseth, E, J. (1997). Cybertext : perspectives on ergodic literature. Johns Hopkins University Press.
-    
  * Carpenter, J. R. (2016). The Gathering Cloud [Digital poem]. Luckysoap.com. https://luckysoap.com/thegatheringcloud/
-    
  *   Montfort, N. (2009). Taroko Gorge [Kinetic poem]. https://collection.eliterature.org/3/work.html?work=taroko-gorge
- * 
  * 	 Plotkin, A. (2000). Shade [Interactive fiction]. PR-IF. https://pr-if.org/play/shade/
  * 
  * 	Short, E. & Daly, L.  (2012). First draft of the revolution [Interactive fiction]. Electronic Literature Collection, Volume 3. https://collection.eliterature.org/3/work.html?work=first-draft-of-the-revolution
-   
 * 	Scuri, L. (2024). The House on the Hill: An Interactive Fiction Game. GitHub Pages. https://larajscuri.github.io/house-on-the-hill/
-  
 * 	Thiel, M. (n.d.). Blackout Poetry Tool [Digital poetry]. Electronic Literature Collection, Volume 4. https://collection.eliterature.org/4/blackout-poetry-tool
-  
 * 	Wakes, D. (2018). Twine For Beginners: Using Variables. Damon Wakes. https://damonwakes.wordpress.com/2018/01/24/twine-for-beginners-using-variables/ 
