@@ -26,17 +26,17 @@ I didn't have many expecations going in this class, I was hoping it would not be
 - Algorithim is a set of rules. It has to be designed. It is based on human intelligence.
   
 ### Constraint: 
-- Constraint is a limitation.
-- A fiction writer is constrained about choosing what to say in the story and which information to and withold.
-- A scriptwriter is constrained by script and form.
-- A short story writer is constrained by word count.
-- A poet is constrained by rhythm, and limiting themseleves to: a specific voice, formal toning, syllables, lines.
+ * Constraint is a limitation.
+ *  A fiction writer is constrained about choosing what to say in the story and which information to and withold.
+ *  A scriptwriter is constrained by script and form.
+ *  A short story writer is constrained by word count.
+ *  A poet is constrained by rhythm, and limiting themseleves to: a specific voice, formal toning, syllables, lines.
   
 Dada, Opuilo, the modernists.
 Algorithmic writing 
 
 ### Lipograms
-- A short poem without the letter e:
+ *  A short poem without the letter e:
   
 _I was sitting on the grass, balancing a pink lunchbox on my lap. 
  adorned in frilly fabric. I was a month shy of turning IX, 
@@ -56,36 +56,42 @@ Map of my story
 ["_House On The Hill_"](https://larajscuri.github.io/house-on-the-hill/) by Lara J Scuri 
  
 - How does it work?
- * The user reader can move the character around the house using up down side side and wasd keys.
- * There are interactive elements within the home, which include the televesion, broken glass on the floor, picture frames.
- * Different characters can be found throughout the house which the player can interact with to progress the story.
- * Text appears on the screen as if being typed, but you can press any key to complete the sentence faster and then skip to the next line. 
+  
+   *  The user reader can move the character around the house using up down side side and wasd keys.
+   *  There are interactive elements within the home, which include the televesion, broken glass on the floor, picture frames.
+   *  Different characters can be found throughout the house which the player can interact with to progress the story.
+   *  Text appears on the screen as if being typed, but you can press any key to complete the sentence faster and then skip to the next line. 
  
 - What does it do?
- * The work builds suspense and tension.
- * Haunting music can be heard in the background, it loops.
- * Phone calls, a shrilling ringing sound, gives more context to some characters and lets the user reader piece together the familiam issues.
- * Nostalgic, the colour scheme of blues and the pixelation gives the work a feel of 80's video games.
+  
+   *  The work builds suspense and tension.
+   *  Haunting music can be heard in the background, it loops.
+   *  Phone calls, a shrilling ringing sound, gives more context to some characters and lets the user reader piece together the familiam issues.
+   *  Nostalgic, the colour scheme of blues and the pixelation gives the work a feel of 80's video games.
  
 - What is conveyed?
- * A haunted house with thrilling drama.
- * Family secrets can be uncovered slowly throughout the exploration of the house and the conversations the user reader has with the characters.
- * A question I have: is it a random house that she stumbled upon? Is it her estranged's family's house that she went back to after a long time of absence to escape her family's secrets?
+  
+   *  A haunted house with thrilling drama.
+   *  Family secrets can be uncovered slowly throughout the exploration of the house and the conversations the user reader has with the characters.
+   *  A question I have: is it a random house that she stumbled upon? Is it her estranged's family's house that she went back to after a long time of absence to escape her family's secrets?
  
 - Digital Affordance:
- * Gradual discovery of interactive elements increases the suspense, reader immersion, and interest.
- * Certrain elements add to the story; blood on the floor, broken picture frames, and adjar door. It is up to the reader to discover them.
- * The work is designed to be read in different orders, depending on order of rooms entered.
- * How the work functions increases the meaning.
+  
+   *  Gradual discovery of interactive elements increases the suspense, reader immersion, and interest.
+   * Certrain elements add to the story; blood on the floor, broken picture frames, and adjar door. It is up to the reader to discover them.
+   *  The work is designed to be read in different orders, depending on order of rooms entered.
+   *  How the work functions increases the meaning.
  
 - Between readings:
- * The user reader can change the order in which they read the work.
- * The work has a singular ending.
- * Images prompt storyline progression via the user reader’s interaction with certain pieces/items/characteristics/characters of the environment.
+  
+   *  The user reader can change the order in which they read the work.
+   *  The work has a singular ending.
+   *  Images prompt storyline progression via the user reader’s interaction with certain pieces/items/characteristics/characters of the environment.
  
 - Movement:
- * Reader takes an active role in progressing the story.
- * The story will remain static and unmoving without the user reader's interactions.
+  
+   *  Reader takes an active role in progressing the story.
+   *  The story will remain static and unmoving without the user reader's interactions.
  
 ## Week 8
 ##### Reflection on Feedback and Peer Presentations:
@@ -117,32 +123,36 @@ what do you wish there reader to understand of feel?
 # What needs to be developed?
 
 What drives the reader’s momentum through the piece?
- •	The mystery is what drives the reader's momentum. I intend to keep the reader on their toes to figure out not only who died, but why did they die. I want the reader to be able to figure out themselves what is Estelle's intentions.
+ 
+ * The mystery is what drives the reader's momentum. I intend to keep the reader on their toes to figure out not only who died, but why did they die. I want the reader to be able to figure out themselves what is Estelle's intentions.
 
 How does the digital feed into this momentum?
- •	I've actively used the (click:append) macro to move the narrative along. I've used this code to hide embedded phrases and clues that reveals Estelle's main intentions, and how she actually is, and what she thinks of her friends beneath the surface.
+ 
+  * I've actively used the (click:append) macro to move the narrative along. I've used this code to hide embedded phrases and clues that reveals Estelle's main intentions, and how she actually is, and what she thinks of her friends beneath the surface.
 
 How does the literary and the digital drive the momentum together with the piece’s thematics?
- •	The reader will start to piece together the story themselves through the clues and embedded phrases. These phrases are what moves the narrative along. The digital codes are also a way to get to know the characters on a deeper level. I have also used background images and audio to help the reader feel as if they were in New York themselves, and to give the reader a bigger scope into the flapper and speakeasy lifestyle that made the 1920s era.
+ 
+  * The reader will start to piece together the story themselves through the clues and embedded phrases. These phrases are what moves the narrative along. The digital codes are also a way to get to know the characters on a deeper level. I have also used background images and audio to help the reader feel as if they were in New York themselves, and to give the reader a bigger scope into the flapper and speakeasy lifestyle that made the 1920s era.
 
 Do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
- •	I have thoroughly developed the concept and narrative via making a digital map of the idea, character backgrounds and arcs, the themes, aesthetics, and audios I aim to use. This is a tool in order to help me the more I code the story so that I don't get lost along the way and to be completely certain of what I am creating.
+ 
+  * I have thoroughly developed the concept and narrative via making a digital map of the idea, character backgrounds and arcs, the themes, aesthetics, and audios I aim to use. This is a tool in order to help me the more I code the story so that I don't get lost along the way and to be completely certain of what I am creating.
 
 #### Scope and Scale
 
 How many words will it be?
-- A couple thousand words, I'll have to double check and answer this question again.
+ *  A couple thousand words, I'll have to double check and answer this question again.
      Update, June 5th: it is 8,872 words. 
   
 How many screens?
-- At the moment I've got nineteen passages, but it could increase the more I code my story.
+ *  At the moment I've got nineteen passages, but it could increase the more I code my story.
      Update, June 5th: I've got 29 passages.
   
 What do you need to do on a week-by-week basis (is this realistic?)
-- I would like to code more week by week until I get the full scale of the story. And just expriement early with codes in case I get stuck on any of them so I have time to fix the codes.
+ *  I would like to code more week by week until I get the full scale of the story. And just expriement early with codes in case I get stuck on any of them so I have time to fix the codes.
   
 What is the tech that might get you stuck? what is the workaround/Plan B?
-- I have been able to solve all the tech issues I have faced, but if I face anymore, which is likely, I'll add it to my folio development and work hard on trying to solve it.
+ *  I have been able to solve all the tech issues I have faced, but if I face anymore, which is likely, I'll add it to my folio development and work hard on trying to solve it.
 
 ## Week 9: Reflection on Workshopping
 
@@ -160,10 +170,11 @@ I found this workshopping incredibly helpful since I thought it was one of the t
 ## Week 10: Reflection on class and final project 
 
 Were there any portions of the class that stood out to you?
-- The coding in itself stood out. It seemed like such a difficult language to learn and incredibly out of reach for me. Using Twine is what stood out to me the most. I found it confusing at the start, however, the more I practised, the more I started to find pleasure of it. The feeling of satisfaction of working code is a feeling I find myself craving the more I work on my Twine project.
+
+ * The coding in itself stood out. It seemed like such a difficult language to learn and incredibly out of reach for me. Using Twine is what stood out to me the most. I found it confusing at the start, however, the more I practised, the more I started to find pleasure of it. The feeling of satisfaction of working code is a feeling I find myself craving the more I work on my Twine project.
   
 Was there anything that you were able to expand your prior knowledge on?
-- Before this class, I had very minimal understanding of HTML code since I learnt it in years 5 and 6. But with this class, I realised that coding goes beyond just HTML, and that there is so much more of it that I had no idea about. What I find interesting is that Twine does depend a lot on simple HTML code, and I found it is what easily read by Twine, so being able to fall back to codes I already knew whenever I got stuck was comforting to me.
+ *  Before this class, I had very minimal understanding of HTML code since I learnt it in years 5 and 6. But with this class, I realised that coding goes beyond just HTML, and that there is so much more of it that I had no idea about. What I find interesting is that Twine does depend a lot on simple HTML code, and I found it is what easily read by Twine, so being able to fall back to codes I already knew whenever I got stuck was comforting to me.
 
 Discuss your final project and how it may relate back to your initial interests in the class or what we have learnt.
 -
