@@ -25,6 +25,9 @@ I didn't have many expecations going in this class, I was hoping it would not be
 
 ## Week 3 Reflection.
 
+We have experimented on Glitch and remixed a readymade project to our liking. At first, I found it difficult to follow the teacher’s instructions. Everything felt too foreign for me. I was scared to test out the codes because I learned too quickly how sensitive they could be. Three hours in class practicing and I slowly felt myself start becoming comfortable with the language. I enjoyed how the options to customise the Glitch page was almost endless. I could change the solid background colour to gradient, I could delete the gif and add an image instead, I had great fun changing the fonts and colour of the text. I do think coding will get difficult as the semester goes on, especially with the software we’ll use, but I am sure I’ll find myself navigating it as I did this one.
+
+
 ### Algorithim: 
 - Algorithim is a set of rules. It has to be designed. It is based on human intelligence.
   
@@ -221,8 +224,11 @@ Months and months of work on this Twine project was gruelling, but I am so incre
 
 
 # Reference list 
--	Scuri, L. (2024). The House on the Hill: An Interactive Fiction Game. GitHub Pages. https://larajscuri.github.io/house-on-the-hill/
--	Wakes, D. (2018). Twine For Beginners: Using Variables. Damon Wakes. https://damonwakes.wordpress.com/2018/01/24/twine-for-beginners-using-variables/ 
-
-
-
+•	Aarseth, E, J. (1997). Cybertext : perspectives on ergodic literature. Johns Hopkins University Press. 
+•	Carpenter, J. R. (2016). The Gathering Cloud [Digital poem]. Luckysoap.com. https://luckysoap.com/thegatheringcloud/
+•	Montfort, N. (2009). Taroko Gorge [Kinetic poem]. https://collection.eliterature.org/3/work.html?work=taroko-gorge 
+•	 Plotkin, A. (2000). Shade [Interactive fiction]. PR-IF. https://pr-if.org/play/shade/
+•	Short, E. & Daly, L.  (2012). First draft of the revolution [Interactive fiction]. Electronic Literature Collection, Volume 3. https://collection.eliterature.org/3/work.html?work=first-draft-of-the-revolution
+•	Scuri, L. (2024). The House on the Hill: An Interactive Fiction Game. GitHub Pages. https://larajscuri.github.io/house-on-the-hill/
+•	Thiel, M. (n.d.). Blackout Poetry Tool [Digital poetry]. Electronic Literature Collection, Volume 4. https://collection.eliterature.org/4/blackout-poetry-tool 
+•	Wakes, D. (2018). Twine For Beginners: Using Variables. Damon Wakes. https://damonwakes.wordpress.com/2018/01/24/twine-for-beginners-using-variables/ 
