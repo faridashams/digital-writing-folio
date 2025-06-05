@@ -97,7 +97,7 @@ I planned for this presentation for days. I was determined to do well in it, and
 
 
 What has been introduced? Summarise your proposed piece
- •	My proposed idea is a murder mystery narrative set in 1920s New York, where main protagonist, Estelle, recounts through her journal entries how she established her career in the music industry, and the mystery that hangs around her ensemble of friends.
+ ' - 	My proposed idea is a murder mystery narrative set in 1920s New York, where main protagonist, Estelle, recounts through her journal entries how she established her career in the music industry, and the mystery that hangs around her ensemble of friends.
 
 What are the themes and ideas is your piece is exploring?:
  •	The themes that revolve around my piece is betrayal, dangerous love, obsession, greed, murder, and manipulation.
@@ -123,9 +123,6 @@ How does the literary and the digital drive the momentum together with the piece
 Do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
  •	I have thoroughly developed the concept and narrative via making a digital map of the idea, character backgrounds and arcs, the themes, aesthetics, and audios I aim to use. This is a tool in order to help me the more I code the story so that I don't get lost along the way and to be completely certain of what I am creating.
 
-#### Story map:
-<img width="924" alt="Screen Shot 2025-05-15 at 2 59 05 pm" src="https://github.com/user-attachments/assets/fc48eec7-90e1-41df-b0c7-0961dd99203d" />
- 
 #### Scope and Scale
 
 How many words will it be?
