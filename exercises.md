@@ -1,4 +1,4 @@
-## Week 1 Reflection.
+![image](https://github.com/user-attachments/assets/96fe26cf-22b5-4347-8c49-3887a8105549)## Week 1 Reflection.
 
 I didn't have many expecations going in this class, I was hoping it would not be too difficult as I don't have much coding knowledge beyond year 7 classes in school. I had used html coding before, so that was familiar to me. However, Github and Glitch are entirely new softwares to me that I hope become easier to use the more I practice. I'm very intrigued by how coding is intercepted with writing, especially with how it could look on a page. I'm excited to learn more and to have coding as a skill I could have an advantage for. 
 
@@ -161,3 +161,13 @@ Is interactive fiction something that you will continue to do after this studio?
 
 Has learning about and experimenting with interactive fiction influenced how you approach writing as a whole?
 - 
+
+## Final reflection on class and entire process with working with Twine:
+
+I have always found coding to be an impressive language to learn. It seemed so far out of my reach, and I found whoever had mastered the language must have been the smartest person alive. Taking this course was a huge leap of faith. I didn’t know what to expect or how the class was going to run. It was extremely out of my comfort zone. However, one thing that I am, is that I am persistent, and I will try my absolute hardest to make something work for me. It must have been why I found working with Twine to be immensely rewarding. I chose to work Twine because it aligned perfectly with the story idea I had in mind. It was the perfect software to use for an interactive story. I remember when we first play tested with Twine, I immediately found it fun, and many ideas came to mind of what I could do with it for my final project. 
+
+Twine definitely came with its fair share of frustrations. There were many moments where I was very stuck with the code, and I felt a lot of anger and annoyance towards that inanimate object. My biggest issue at first was adding a background image, which took me three days to solve, then an even bigger issue arouse with my image map because it wouldn’t scale properly, and when I tried to size it up, the coordinates would change and be incorrect. That was definitely the most frustrating thing to solve, and I left it as the last thing to work on to really give myself a clear head on how I was going to fix it. Again, I am nothing if not persistent, and I did fix the issue, and the sense of satisfaction I felt was immeasurable. 
+
+I think the main thing that truly got me through this class was my persistence of making things work, even if it felt impossible. If a certain idea I wanted to work didn’t, I would either find a loophole, or change it slightly to fit the code instead. Finishing my Twine project and adding that final touch and play testing it with everything working, was incredible. I took a breath as I clicked ‘Test from here’, and I held my breath the entire time I played it to make sure everything was working perfectly, and I finally let out that breath when I realised the code was flawless, and I was truly and officially done with my project. 
+
+Months and months of work on this Twine project was gruelling, but I am so incredibly proud of the work I have done. If I could go back in time, I would take this class again, because it allowed me to prove myself wrong: I could learn code. I am capable. And it made me learn to be patient, and that if I can’t see a solution now, it doesn’t mean one will never come to me. It has influenced my writing in a way I didn’t think was possible. It allowed me to be experimental, and I now have a newfound love for electronic literature. This was both an intense and a fulfilling experience. 
