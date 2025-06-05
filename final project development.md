@@ -13,7 +13,6 @@
 
 
 
-
 ## What the story is about:
   A story set in 1920s New York, follows a jazz band through their rise and fall. The main protagonist, Estelle Forrest, is the one that tells 
   the narrative, and the user reader gets to follow her journey through her journal entries, in which you see her make the decision to leave her hometown, and how she meets her fellow bandmates and the relationships she creates with them.
@@ -24,8 +23,6 @@
   to turn into an electronic story through Twine. It can be interactive, engaging, and the user reader could have a hand in how 
   the story moves along. I had spoken to one of my peers about my idea, and we started throwing suggestions back and forth until I had finalised how I wanted this story to take shape.
 
-### Map of story 
-![mapofstory](https://github.com/user-attachments/assets/84d6beed-65b6-4b41-927c-f9705ebddc12)
 
 ## Issues I faced while creating the story on Twine:
   1. Files not saving properly and my project not showing up. I was saving it on the wrong file in github. It was named differently than the folder on my desktop. 
