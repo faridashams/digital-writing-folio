@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/96fe26cf-22b5-4347-8c49-3887a8105549)## Week 1 Reflection.
+## Week 1 Reflection.
 
 I didn't have many expecations going in this class, I was hoping it would not be too difficult as I don't have much coding knowledge beyond year 7 classes in school. I had used html coding before, so that was familiar to me. However, Github and Glitch are entirely new softwares to me that I hope become easier to use the more I practice. I'm very intrigued by how coding is intercepted with writing, especially with how it could look on a page. I'm excited to learn more and to have coding as a skill I could have an advantage for. 
 
@@ -121,7 +121,7 @@ How does the literary and the digital drive the momentum together with the piece
 Do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
 - I have thouroughly developed the concept and narrative via making a digital map of the idea, character backgrounds and arcs, the themes, aesthetics, and audios I aim to use. This is a tool in order to help me the more I code the story so that I don't get lost along the way and to be completely certain of what I am creating. 
 
-## Scope and Scale
+# Scope and Scale
 
 How many words will it be?
 - A couple thousand words, I'll have to double check and answer this question again.
@@ -135,6 +135,19 @@ What do you need to do on a week-by-week basis (is this realistic?)
 What is the tech that might get you stuck? what is the workaround/Plan B?
 - I have been able to solve all the tech issues I have faced, but if I face anymore, which is likely, I'll add it to my folio development and work hard on trying to solve it.
 Discuss what we learnt about and what interested you.
+
+## Week 9: Reflection on Workshopping
+
+-	Workshop feedback I was given:
+
+At the time of workshopping, my creative piece was still half unfinished, though I did have a full image in my mind of how I wanted it to look like in the end, that is why at first, I was unsure what I wanted feedback on. I started the discussion with giving my peers an overview of what my piece was about and what it entailed. Then I shared a concern with how I thought my code might have been too simple, or that I was reusing the same codes over and over again. I also shared an issue I was having. I wanted the dialogue to be clickable, but I couldn’t manage how to do it.
+
+Liv suggested a beginner friendly website by Damon L. Wakes that had a section for using variables. I thought it was a wonderful idea, and I tried it out, but I realised it wasn’t exactly what I was going for. My story didn’t require many interactive clues, so using variables wasn’t for me.
+
+Angelo suggested I use the (t8n-delay: 2s) + (t8n: "fade") code to give my project something more exciting like I intended. I loved the idea and I immediately put it to the test. I used it the most in my passage titled Realisations. I used both the fade and fade down codes, and timed it so when the player finishes reading the sentence, another one will appear after. Though, I believe this one just depends on the person’s reading speed.
+
+I found this workshopping incredibly helpful since I thought it was one of the things missing from the course that we needed to indulge in, but I believe this workshopping round came at a good time because it helped develop my work.
+
 
 ## Week 10: Reflection on class and final project 
 
