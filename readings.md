@@ -15,18 +15,16 @@ Read (on top of the weekly readings):
 
 ### Reading
 
-Read a few works from each volume of the [Electronic Literature Collection](https://collection.eliterature.org/):
+* [Blackout Poetry Tool](https://collection.eliterature.org/4/blackout-poetry-tool) by Jazer Chand [Volume 4 (June 2022)](https://collection.eliterature.org/4/)
 
-* [Volume 1 (October 2006)](https://collection.eliterature.org/1/)
-* [Volume 2 (February 2011)](https://collection.eliterature.org/2/)
-* [Volume 3 (February 2016)](https://collection.eliterature.org/3/)
-* [Volume 4 (June 2022)](https://collection.eliterature.org/4/)
+-  What makes the work a piece of digital writing:
+    * A work becomes a piece of digital writing when it uses  a digital medium to make up its form. It becomes essential to its meaning or function. This work uses a digital functionality where the player is able to blackout words themselves, or choose a bot to do it for themselves and it generates a peom. Here is how I interacted with it. This blackout poetry used The Great Gatsby by F. Scott Fitzgerald.
+ ![Poem_by_Human_c3](https://github.com/user-attachments/assets/d72ab5da-b852-4960-8c93-85b65f94f1c1)
 
-Select one work from each volume that you read and for each write:
-
-* What makes the work a piece of digital writing
-* A personal response (whether you liked it, how it made you feel &c)
-
+-  A personal response:
+    * I have mentioned before that I am not a poetry reader or a poetry enjoyer, but my first introduction on blackout poetry was in a book called Vicious by V. E. Schwab. The main character, Victor, used to black out all the books he owned. It fascinated me how you can come out with a new different meaning just by blacking out some words. Getting to attempt doing that with this piece was exciting as I finally tried my hand at it. I don't necessarily know how to feel about the work itself, but I enjoyed the experience of blackout poetry.
+      
+Thiel, M. (n.d.). Blackout Poetry Tool [Digital poetry]. Electronic Literature Collection, Volume 4. https://collection.eliterature.org/4/blackout-poetry-tool 
 
 # Week 5
 Espen J. Aarseth, Cybertext : perspectives on ergodic literature (1997)
