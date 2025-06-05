@@ -6,8 +6,8 @@
    *	A fiction murder mystery set in 1920s New York, where it follows main protagonist, Estelle, as she recounts her journey into the jazz scene, and a mysterious death that surrounds the troupe in a series of journal entries.
 - Intended audience:
    *	Young adults, mystery fanatics, electronic literature enjoyers, and audience that are fascinated by a certain time era, especially the Roaring Twenties.
-- Developed working GitHub Pages link(s) or link to Vercel or Netlify site if published there
-- Developed work GitHub repository links(s)
+- Developed working GitHub Pages link(s) or link to Vercel or Netlify site if published there. https://github.com/faridashams/Flapper-ongoing-project 
+- Developed work GitHub repository links(s) 
 - For Twine works a "proof" added to the GitHub repository
 - For Bitsy works the data file added to the GitHub repository
 
@@ -32,4 +32,10 @@
   2. The font not working because I was viewing my project through "Test From Here" option.
   3. Having difficulty trying to add a background image to a passage. I tried many different codes that kept glitching until finally one of them worked. 
 
-### Workshopping of my Twine project
+### Elements that were different from presentation to final project.
+
+  * The idea stayed the same, though the original journal entry titles changed over time.
+  * I originally had 19 passages, I now have 29 passages.
+  * I had a specific palette that consisted of reds, greens, and golds, but I decided to make it all black and white to fit the vintage aesthetic, though I kept the red in the dialogue.
+  * I added in different stylistic choices over time that were suggested to me: scratching out sentences, adding a drop shadow to the text, changing the opacity of the background image, adding an image map as the journal entries.
+
