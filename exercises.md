@@ -48,11 +48,11 @@ _I was sitting on the grass, balancing a pink lunchbox on my lap.
 
 ## Week 5 
 
-
-Map of my story
+We have started developing our works for the final creative work. I have chosen to work with Twine since I believe it is what fits the image in my head for my project. I know which of my projects I want to develop for Twine. It’s a 1920s mystery story set in New York, and with Twine, I’ll be able to embed hidden clues and meanings, though I am still unsure on how I’m going to do that or what code I could use. I designed a digital map to help me picture my story and its themes better. 
 
 <img width="924" alt="Screen Shot 2025-05-15 at 2 59 05 pm" src="https://github.com/user-attachments/assets/2ecfe79e-f8aa-41ff-8ed7-c0b89d7b3019" />
 
+I’ve added here all the character names, their relations to each other, their role in the band, and their backstories. I have also gone in depth with the themes I want to incorporate, alongside a general idea of how I think the story will progress. I’ve written the titles of the journal entries, and a colour palette, though I believe that might change the more I develop the story. 
 
 ## Week 6 activity 
 ["_House On The Hill_"](https://larajscuri.github.io/house-on-the-hill/) by Lara J Scuri 
